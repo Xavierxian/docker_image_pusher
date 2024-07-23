@@ -3,4 +3,5 @@ registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18
 registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt-sandbox:v4.8.7
 registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.8.7
 mysql:8.0.36
-songquanpeng/one-api
+ai365/chat-api:latest
+
