@@ -3,4 +3,4 @@ registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18
 registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt-sandbox:v4.8.7
 registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.8.7
 mysql:8.0.36
-github.com/songquanpeng/one-api
+songquanpeng/one-api
