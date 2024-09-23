@@ -5,4 +5,4 @@ registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.8.7
 mysql:8.0.36
 ai365/chat-api:latest
 redis:latest
-songquanpeng/one-api
+justsong/one-api
