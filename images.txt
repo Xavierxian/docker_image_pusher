@@ -6,3 +6,5 @@ mysql:8.0.36
 ai365/chat-api:latest
 redis:latest
 justsong/one-api
+mysql:latest
+programzmh/chatnio
