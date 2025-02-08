@@ -8,3 +8,4 @@ redis:latest
 justsong/one-api
 mysql:latest
 programzmh/chatnio
+alpine:3.16
